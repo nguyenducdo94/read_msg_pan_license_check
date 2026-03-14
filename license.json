@@ -1,0 +1,7 @@
+{
+	"enabled": true,
+	"allowedIds": [
+		"rmp_abc123xyz_abc",
+		"rmp_def456_def"
+	]
+}
