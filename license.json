@@ -1,7 +1,4 @@
 {
 	"enabled": true,
-	"allowedIds": [
-		"rmp_v27d0ujipd_mmr1zqjk",
-		"rmp_ndsx2eo1mm_mmq2hhpn"
-	]
+	"allowedIds": []
 }
